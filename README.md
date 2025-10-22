@@ -68,4 +68,3 @@ To run this project:
 
 * **Python**
 * **Jupyter Notebook**
-* (Likely) **Matplotlib** & **NumPy** for graph plotting and numerical operations.
